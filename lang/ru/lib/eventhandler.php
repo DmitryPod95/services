@@ -1,0 +1,2 @@
+<?php
+$MESS["USER_TYPE_PROPERTY_DESCRIPTION"] = "Таблица";
